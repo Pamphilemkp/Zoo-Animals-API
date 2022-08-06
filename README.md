@@ -26,7 +26,7 @@ This project  displays 10 random zoo  animals and all the details about the spec
 
 ## Live Demo 
 
-[Live Demo Link](https://Piercel2022.github.io/Zoo-Animals/dist)
+[Live Demo Link](https://pamphilemkp.github.io/Zoo-Animals-API/dist/)
 
 
 ## Video link
