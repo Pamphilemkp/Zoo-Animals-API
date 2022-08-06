@@ -37,8 +37,6 @@ nav {
   justify-content: flex-start;
   align-items: center;
   gap: 20px;
-
-  /* background-image: url('https://wallpaper.dog/large/10717714.jpg'); */
   background-color: rgba(17, 16, 16, 0.9);
   color: white;
   position: absolute;
